@@ -11,7 +11,7 @@ Performance modelling for RISC-V, as covered by this group, addresses two critic
 
 These performance modelling and simulation tools serve as the foundation for predicting the impact of 
 workloads, micro-architectural changes, and compiler improvements.  Side-by-side with functional simulation 
-(i.e., "fast-model" implemented in QEmu) and the reference model (i.e., SAIL), this covers the entire 
+(i.e., "fast-model" implemented in QEMU) and the reference model (i.e., SAIL), this covers the entire 
 lifecycle of RISC-V development.
 
 The Performance Modelling SIG covers the following activities:

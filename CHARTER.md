@@ -16,8 +16,8 @@ lifecycle of RISC-V development.
 
 The Performance Modelling SIG covers the following activities:
 
-* Provides gap-analysis, strategy-development and outreach for Performance Modelling and Simulation topics f
-or the Software HC.
+* Provides gap-analysis, strategy-development and outreach for Performance Modelling and Simulation topics 
+for the Software HC.
 * Coordinates the selection and joint development for the Performance Modelling and Simulation tools 
 across the RISC-V membership and ecosystem to reduce duplication of effort and foster the collaboration 
 on development activities
